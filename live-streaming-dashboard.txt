@@ -1,0 +1,16 @@
+live-streaming-dashboard/
+├── backend/
+│   ├── app.py
+│   ├── models.py
+│   ├── routes.py
+│   └── requirements.txt
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── styles.css
+├── .gitignore
+├── README.md
+└── package.json
